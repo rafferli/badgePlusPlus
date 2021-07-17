@@ -1,0 +1,10 @@
+Package: raff
+Name: RED
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: rafferli
+Author: rafferli
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Version: 0.0.1-186+debug
+Installed-Size: 140
